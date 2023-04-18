@@ -1,1 +1,1 @@
-# Jupyter-Notebook-Projects
+# Machine Learning Minor Projects
